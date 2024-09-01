@@ -2,9 +2,10 @@
 
 # Olá!
 
-- 👋 Olá, sou o @MatheusUrS
-- 👀 Atualmente estou aprendendo HTML e CSS 
-- 🌱 Desejo aprender inicialmente tudo sobre front end e futuramente virar um full stack!
+- 👋 Sou o @MatheusUrS
+- 👀 Atualmente estou cursando técnico em informática para web no SENAI.
+- 🌱 Desejo buscar conhecimentos para futuramente ser um programador full stack!
+- ✨ Sou entusiasta de jogos e tecnologias.
 
 
 
