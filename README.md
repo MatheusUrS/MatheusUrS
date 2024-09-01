@@ -3,7 +3,7 @@
 # Olá!
 
 - 👋 Sou o @MatheusUrS
-- 👀 Atualmente estou cursando técnico em informática para web no SENAI.
+- 👀 Atualmente trabalho com atendimento ao cliente e estou cursando técnico em informática para web no SENAI.
 - 🌱 Desejo buscar conhecimentos para futuramente ser um programador full stack!
 - ✨ Sou entusiasta de jogos e tecnologias.
 
