@@ -7,6 +7,8 @@
 - 🌱 Desejo buscar conhecimentos para futuramente ser um programador full stack!
 - ✨ Sou entusiasta de jogos e tecnologias.
 
+![MatheusUrS GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusUrS&show_icons=true&theme=transparent)
+
 
 
 <!---
